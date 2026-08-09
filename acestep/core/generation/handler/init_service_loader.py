@@ -174,6 +174,7 @@ class InitServiceLoaderMixin(InitServiceLoaderComponentsMixin):
                 logger.info(f"[initialize_service] Attempting to load model with attention implementation: {candidate}")
                 self.model = AutoModel.from_pretrained(
                     model_checkpoint_path,
+                    low_cpu_mem_usage=False,
                     trust_remote_code=True,
                     attn_implementation=candidate,
                     dtype=self.dtype,
