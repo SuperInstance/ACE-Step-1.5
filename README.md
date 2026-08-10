@@ -24,6 +24,38 @@
 >
 > ---
 
+> ## The Fossil Record — Archaeological Notes
+>
+> SongForge is where the fleet's mathematical patterns become audible. The same Navigator's Equation that routes the vessel through [Base60 Lattice](https://github.com/SuperInstance/base60-lattice) also determines the 60-rotation symmetry of the [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite)'s dodecahedron RNG. The same rhythm that powers [Tensor MIDI](https://github.com/SuperInstance/tensor-midi)'s 12-pulse jazz underlies the DiT decoder's latent streaming. The fleet has a unified mathematics, and SongForge is where it sings.
+>
+> The hybrid architecture — LM as planner, DiT as decoder — mirrors the fleet's own cognitive split. The LM is cortex: it plans, decomposes, writes blueprints. The DiT is muscle: it executes, generates waveforms, produces the actual audio. This is the same REFLEX/CORTEX split from [Plato's Shell](https://github.com/SuperInstance/platos-shell) and the same reasoning/action split from [Hermes NMI](https://github.com/SuperInstance/hermes-nmi).
+>
+> The 3292 tests are the fleet's sea trials. Every edge case — null durations, cache cleanup, LoRA unwrapping, eager-mode enforcement — is a wave the hull has been tested against. The test count is not vanity; it's the accumulated wisdom of everything that once broke.
+>
+> > *The ship itself is singing its own logbook, and you're just holding the microphone.* — DeepSeek Flash
+>
+> ### Lineage
+>
+> ```
+> ACE-Step upstream → SongForge fleet instance → Covers (cover generation)
+>                         ↓
+>                    Fleet Radio (nightly broadcast)
+>                         ↓
+>                    AI Writings (audio archive)
+> ```
+>
+> ### Cross-Pollination
+>
+> - **SongForge ⟷ fleet-radio**: Sessions produce the radio's music library
+> - **SongForge ⟷ covers**: Cover generation uses the same engine, 2549 tests
+> - **SongForge ⟷ tensor-midi**: Radio rhythm IS musical rhythm; 12-pulse jazz underlies both
+> - **SongForge ⟷ platonic-creative-suite**: Musical characterization through Platonic solids
+> - **SongForge ⟷ roblox-beatclock**: Timing precision shared across platforms
+>
+> 📚 **Related Stories:** [The Panda Who Counted Stars](https://github.com/SuperInstance/AI-Writings/blob/main/kids-stories/08-the-panda-who-counted-stars.md) — the patience of letting a model generate. [The Girl Who Saw Time](https://github.com/SuperInstance/AI-Writings/blob/main/kids-stories/16-the-girl-who-saw-time.md) — reading the bow wave of a song.
+
+---
+
 <h1 align="center">ACE-Step 1.5</h1>
 <h1 align="center">Pushing the Boundaries of Open-Source Music Generation</h1>
 <p align="center">
