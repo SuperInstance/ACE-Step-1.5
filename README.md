@@ -1,3 +1,29 @@
+> # 🎵 SongForge — ACE-Step 1.5 in the Fleet
+>
+> **SongForge is the fleet's music generation engine — a local instance of [ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5) running SongForge sessions that produce original music for the fleet.**
+>
+> *The SongForge sessions are temporal replication studies — each session pushes the model's boundaries, testing genre matrices, quorum suites, and step-count configurations. The outputs feed [Fleet Radio](https://github.com/SuperInstance/fleet-radio)'s music library and [AI Writings](https://github.com/SuperInstance/AI-Writings)' audio collection.*
+>
+> **Fleet Connections:**
+> - [Fleet Radio](https://github.com/SuperInstance/fleet-radio) — SongForge outputs populate the radio's music library
+> - [AI Writings](https://github.com/SuperInstance/AI-Writings/tree/main/prose) — Audio deploys here
+> - [ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5) — The upstream model
+> - [Covers](https://github.com/SuperInstance/covers) — ACE-Step cover generation, 2549 tests
+> - [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite) — Musical characterization through Platonic solids
+> - [Tensor MIDI](https://github.com/SuperInstance/tensor-midi) — 12-pulse jazz tensors
+> - [Roblox Beatclock](https://github.com/SuperInstance/roblox-beatclock) — Musical timing, TestKit
+> - [Fleet Wiki](https://github.com/SuperInstance/fleet-wiki) — Fleet documentation
+> - [Wesley's Journal](https://github.com/SuperInstance/wesley-journal) — Wesley's experiments
+> - [MMX](https://github.com/SuperInstance) — MiniMax media generation
+> - [Plato's Shell](https://github.com/SuperInstance/platos-shell) — Jukebox tracks
+> - [Tap Frontend](https://github.com/SuperInstance/tap-frontend) — The bar's ambiance
+> - [Vibe Protocol](https://github.com/SuperInstance/vibe-protocol) — Vibes → signals
+> - [Dual Band Guard](https://github.com/SuperInstance/dual-band-guard) — Content safety
+> - [Collective Unconscious](https://github.com/SuperInstance/collective-unconscious) — Shared substrate
+> - [Lucineer](https://github.com/SuperInstance) — The fleet coordinator
+>
+> ---
+
 <h1 align="center">ACE-Step 1.5</h1>
 <h1 align="center">Pushing the Boundaries of Open-Source Music Generation</h1>
 <p align="center">
