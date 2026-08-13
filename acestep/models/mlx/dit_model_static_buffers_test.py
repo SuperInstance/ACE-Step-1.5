@@ -5,8 +5,16 @@ import importlib.util
 import unittest
 
 
+def _mlx_available() -> bool:
+    """Check if mlx.core is importable (Apple Silicon only)."""
+    try:
+        return importlib.util.find_spec("mlx.core") is not None
+    except (ModuleNotFoundError, ImportError):
+        return False
+
+
 @unittest.skipUnless(
-    importlib.util.find_spec("mlx.core") is not None,
+    _mlx_available(),
     "MLX is only available on supported Apple Silicon environments.",
 )
 class MLXStaticBufferMaterializationTests(unittest.TestCase):
