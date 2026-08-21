@@ -10,10 +10,10 @@
 > - [ACE-Step 1.5](https://github.com/ace-step/ACE-Step-1.5) — The upstream model
 > - [Covers](https://github.com/SuperInstance/covers) — ACE-Step cover generation, 2549 tests
 > - [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite) — Musical characterization through Platonic solids
-> - [Tensor MIDI](https://github.com/SuperInstance/tensor-midi) — 12-pulse jazz tensors
+> - [Tensor MIDI](https://github.com/SuperInstance/fleet-jepa-midi) — 12-pulse jazz tensors
 > - [Roblox Beatclock](https://github.com/SuperInstance/roblox-beatclock) — Musical timing, TestKit
-> - [Fleet Wiki](https://github.com/SuperInstance/fleet-wiki) — Fleet documentation
-> - [Wesley's Journal](https://github.com/SuperInstance/wesley-journal) — Wesley's experiments
+> - [Fleet Wiki](https://github.com/SuperInstance/lucineer-fleet-wiki) — Fleet documentation
+> - [Wesley's Journal](https://github.com/SuperInstance/wesley-journal) (dead) — Wesley's experiments
 > - [MMX](https://github.com/SuperInstance) — MiniMax media generation
 > - [Plato's Shell](https://github.com/SuperInstance/platos-shell) — Jukebox tracks
 > - [Tap Frontend](https://github.com/SuperInstance/tap-frontend) — The bar's ambiance
@@ -26,7 +26,7 @@
 
 > ## The Fossil Record — Archaeological Notes
 >
-> SongForge is where the fleet's mathematical patterns become audible. The same Navigator's Equation that routes the vessel through [Base60 Lattice](https://github.com/SuperInstance/base60-lattice) also determines the 60-rotation symmetry of the [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite)'s dodecahedron RNG. The same rhythm that powers [Tensor MIDI](https://github.com/SuperInstance/tensor-midi)'s 12-pulse jazz underlies the DiT decoder's latent streaming. The fleet has a unified mathematics, and SongForge is where it sings.
+> SongForge is where the fleet's mathematical patterns become audible. The same Navigator's Equation that routes the vessel through [Base60 Lattice](https://github.com/SuperInstance/base60-lattice) also determines the 60-rotation symmetry of the [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite)'s dodecahedron RNG. The same rhythm that powers [Tensor MIDI](https://github.com/SuperInstance/fleet-jepa-midi)'s 12-pulse jazz underlies the DiT decoder's latent streaming. The fleet has a unified mathematics, and SongForge is where it sings.
 >
 > The hybrid architecture — LM as planner, DiT as decoder — mirrors the fleet's own cognitive split. The LM is cortex: it plans, decomposes, writes blueprints. The DiT is muscle: it executes, generates waveforms, produces the actual audio. This is the same REFLEX/CORTEX split from [Plato's Shell](https://github.com/SuperInstance/platos-shell) and the same reasoning/action split from [Hermes NMI](https://github.com/SuperInstance/hermes-nmi).
 >
@@ -48,7 +48,7 @@
 >
 > - **SongForge ⟷ fleet-radio**: Sessions produce the radio's music library
 > - **SongForge ⟷ covers**: Cover generation uses the same engine, 2549 tests
-> - **SongForge ⟷ tensor-midi**: Radio rhythm IS musical rhythm; 12-pulse jazz underlies both
+> - **SongForge ⟷ fleet-jepa-midi**: Radio rhythm IS musical rhythm; 12-pulse jazz underlies both
 > - **SongForge ⟷ platonic-creative-suite**: Musical characterization through Platonic solids
 > - **SongForge ⟷ roblox-beatclock**: Timing precision shared across platforms
 >

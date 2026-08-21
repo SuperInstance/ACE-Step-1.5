@@ -38,4 +38,4 @@ Generated MP3s deploy to:
 - [Fleet Radio](https://github.com/SuperInstance/fleet-radio) — Music library consumer
 - [AI Writings](https://github.com/SuperInstance/AI-Writings/tree/main/prose) — Deployment target
 - [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite) — Musical characterization
-- [Tensor MIDI](https://github.com/SuperInstance/tensor-midi) — 12-pulse jazz
+- [Tensor MIDI](https://github.com/SuperInstance/fleet-jepa-midi) — 12-pulse jazz
