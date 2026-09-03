@@ -24,6 +24,11 @@
 >
 > ---
 
+> <p align="center">
+>   <img src="docs/assets/songforge-hero.jpg" alt="SongForge — the fleet's music forge, warm instruments glowing in the dark below decks" width="720"><br>
+>   <em>SongForge: where the fleet's mathematics becomes audible — instruments still warm below decks.</em>
+> </p>
+
 > ## The Fossil Record — Archaeological Notes
 >
 > SongForge is where the fleet's mathematical patterns become audible. The same Navigator's Equation that routes the vessel through [Base60 Lattice](https://github.com/SuperInstance/base60-lattice) also determines the 60-rotation symmetry of the [Platonic Creative Suite](https://github.com/SuperInstance/platonic-creative-suite)'s dodecahedron RNG. The same rhythm that powers [Tensor MIDI](https://github.com/SuperInstance/fleet-jepa-midi)'s 12-pulse jazz underlies the DiT decoder's latent streaming. The fleet has a unified mathematics, and SongForge is where it sings.
